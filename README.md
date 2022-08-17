@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing
 - 📫 How to reach me: mail me on pradumnporwal@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: my life playing with me 
+- ⚡ Fun fact: me and my life  both playing with eachother 
 -->
