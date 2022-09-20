@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on my project
 - 🤔 I’m looking for help with my portfolio's documentation
 - 💬 Ask me about nothing
-- 📫 How to reach me: mail me on pradumnporwal@gmail.com
+- 📫 How to reach me: mail me on pradumnporwal@gmail.com or call me on +91 7222981631
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: me and my life  both playing with eachother 
 -->
