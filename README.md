@@ -1,6 +1,5 @@
 ### Hello👋, it's Pradumn Porwal 
-I am a Full Stack Developer and everyday trying to be proficient in HTML5 CSS3 JS ES6
-MERN Development
+I am a Full Stack Developer and everyday trying to be proficient in React.js, DSA Java, HTML5 CSS3 JS ES6 & MERN Development
 
 <!--
 **pradumnporwal13/pradumnporwal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
